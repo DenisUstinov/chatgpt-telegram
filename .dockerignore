@@ -6,3 +6,4 @@ venv
 .gitignore
 README.md
 LICENSE
+__MACOSX
