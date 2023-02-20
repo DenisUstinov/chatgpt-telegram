@@ -19,7 +19,7 @@ To run this application, you will need to have a few things installed and set up
 ### Installation
 
 1. Clone this repository to your local machine:
-git clone https://github.com/your-username/chatgpt-telegram.git
+git clone https://github.com/DenisUstinov/chatgpt-telegram.git
 2. Navigate into the repository:
 cd chatgpt-telegram
 3. Install the required Python packages:
