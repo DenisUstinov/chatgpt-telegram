@@ -1,5 +1,7 @@
 # chatgpt-telegram
 
+Want to create your own personal chatbot that can respond to user messages on Telegram? Then our OpenAI's GPT-3 based application is just what you need! Our chatbot uses machine learning and artificial intelligence to generate unique responses to incoming messages. Installing our application is easy, and you can set up your chatbot in just a few minutes. Start your own personal chatbot today and begin communicating with your users on Telegram!
+
 # AI Chatbot using OpenAI's GPT-3
 
 This is a Python application that uses OpenAI's GPT-3 to create a chatbot that can communicate with users. The chatbot uses the aiogram library to receive and send messages to the user on the Telegram messaging platform.
